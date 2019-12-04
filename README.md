@@ -14,7 +14,7 @@ Directions:
 1. git clone https://github.com/STAR-Sec/PacketGuard
 3. pip2 install -r requirements.txt
 4. apt-get install python2
-5. python2 SMS-Spammer.py
+5. python2 SMS-Final.py
 
 
 Video Tutorial:
