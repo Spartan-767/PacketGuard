@@ -1,7 +1,7 @@
 # PacketGuard
 A tool to detect Deauth attacks and log all the packets as well as alert you as soon as they are detected. 
 Includes text message and email alerts as well as logging all data to serve as evidence of the attack.
-- Coded by Allistar from Star Sec.
+- Coded by Allistar from Star Sec. 
 More updates coming soon
 
 Requirements: 
